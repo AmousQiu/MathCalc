@@ -1,4 +1,4 @@
 # MathCalc
 Some programs for calculating simple mathematic problems  
 
--Eigenvector and eigenvalue calculator
+* Eigenvector and eigenvalue calculator
